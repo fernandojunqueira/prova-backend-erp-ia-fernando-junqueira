@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/erp/.venv/bin/python",
+  "python.analysis.extraPaths": ["${workspaceFolder}/erp"],
+  "python.testing.pytestArgs": ["erp"],
+  "python.testing.pytestEnabled": true
+}
